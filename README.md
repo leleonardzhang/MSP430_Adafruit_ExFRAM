@@ -8,6 +8,7 @@ This repository stores the implementation of the standard MSP430FR5994 SPI proto
 
 ## Contact
 Le Zhang - Email: lezhang at unc.edu
+
 Project Link: https://github.com/leleonardzhang/MSP430_Adafruit_ExFRAM
 
 ## Credits
