@@ -11,5 +11,5 @@ Le Zhang - Email: lezhang at unc.edu
 Project Link: https://github.com/leleonardzhang/MSP430_Adafruit_ExFRAM
 
 ## Credits
-This project is forked from msp430fr599x_eusci_spi_standard_master.c by Nima Eskandari and Ryan Meredith in TI MSP430 official codes
+This project is forked from msp430fr599x_eusci_spi_standard_master.c by Nima Eskandari and Ryan Meredith in TI MSP430 official codes.
 Source: https://dev.ti.com/tirex/explore/node?node=ACHFXHTiNG.iukEIl1BQ2w__IOGqZri__LATEST
